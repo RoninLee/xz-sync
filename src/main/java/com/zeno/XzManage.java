@@ -16,7 +16,7 @@ import java.util.Map;
 public class XzManage {
 
     static final Logger log = LoggerFactory.getLogger(XzManage.class);
-    private static final String cookie = "Hm_lvt_7b262f3838ed313bc65b9ec6316c79c4=1680256416,1682406363; csrftoken=HN3TdfYxyf26Yd0YKJzFm7Y7SZ64taTV; sessionid=sxvc84ayjnq63251khqinyku4xh1ybsj";
+    private static final String cookie = "";
 
     public static void uploadFit(String path) {
         File dir = new File(path);
